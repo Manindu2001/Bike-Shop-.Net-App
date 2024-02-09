@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\BIKE SHOP.exe.config
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\BIKE SHOP.exe
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\BIKE SHOP.pdb
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.About_us.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.customer.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.Employee_Rrcord.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.invoice.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.frmLoading.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.loging.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.MAIN.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.Salary_Sheet.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.STAFF_EMPLPYEE_MAIN.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE_SHOP.stock.resources
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.exe
+C:\Users\Administrator\Desktop\NIBM\Git Projects\BIKE-SHOP\BIKE SHOP\obj\Debug\BIKE SHOP.pdb
